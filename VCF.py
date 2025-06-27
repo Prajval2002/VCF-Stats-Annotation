@@ -1226,7 +1226,7 @@ def main():
         st.session_state.annotated_data = None
     
     # Header
-    st.title("🧬 Advanced VCF Analysis Suite v3.0")
+    st.title("🧬 Advanced VCF Analysis")
     st.markdown("### Real Annotation Edition")
     st.markdown("---")
     
@@ -1551,7 +1551,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #666;'>
-        <p>🧬 Advanced VCF Analysis Suite v3.0 | Built with Streamlit & Real Genomics APIs</p>
+        <p>🧬 Advanced VCF Analysis  | Built with Streamlit & Real Genomics APIs</p>
         <p>⚡ Features: Real-time annotation, Interactive plots, Comprehensive metrics</p>
     </div>
     """, unsafe_allow_html=True)
