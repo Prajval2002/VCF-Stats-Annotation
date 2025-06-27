@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Advanced VCF Analysis Suite v3.0 - Real Annotation Edition",
+    page_title="Advanced VCF Analysis ",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
